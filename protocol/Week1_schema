@@ -22,8 +22,7 @@
         "order": [
 	    "../activity/questions/questions_schema",
             "../activity/voiceCheck/voiceCheck_schema",
-            "../activity/baselineQuestions/baselineQuestions_schema",
-            "../activity/appDownload/appDownload_schema",
+            "../activity/baselineQuestions/baselineQuestions_schema"
             "../activity/unalteredQuestions/unalteredQuestions_schema",
             "../activity/whisperQuestions/whisperQuestions_schema",
             "../activity/reverbQuestions/reverbQuestions_schema",
@@ -52,13 +51,6 @@
                 "variableName": "baselineQuestions_schema",
                 "prefLabel": {
                     "en": "Baseline"
-                }
-            },
-            {
-                "isAbout": "../activity/appDownload/appDownload_schema",
-                "variableName": "appDownload_schema",
-                "prefLabel": {
-                    "en": "App Setup"
                 }
             },
             {

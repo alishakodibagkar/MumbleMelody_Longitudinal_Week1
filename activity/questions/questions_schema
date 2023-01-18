@@ -36,22 +36,6 @@
 		{"isAbout": "items/otherHealthDescription_item",
                 "variableName": "otherHealthDescription_item",
                 "isVis": "otherHealth_item === 0"
-                },
-		{"isAbout": "items/app_before_item",
-                "variableName": "app_before_item",
-                "isVis": true
-                },
-		{"isAbout": "items/app_week_item",
-                "variableName": "app_week_item",
-                "isVis": true
-                },
-		{"isAbout": "items/aaf_before_item",
-                "variableName": "aaf_before_item",
-                "isVis": true
-                },
-		{"isAbout": "items/aaf_week_item",
-                "variableName": "aaf_week_item",
-                "isVis": true
                 }
         ],
         "order": [
@@ -61,11 +45,7 @@
 	    "items/voiceHealth_item",
             "items/voiceHealthWarning_item",
 	    "items/otherHealth_item",
-            "items/otherHealthDescription_item",
-            "items/app_before_item",
-            "items/app_week_item",
-            "items/aaf_before_item",
-            "items/aaf_week_item"
+            "items/otherHealthDescription_item"
         ],
         "shuffle": false,
         "allow": [
