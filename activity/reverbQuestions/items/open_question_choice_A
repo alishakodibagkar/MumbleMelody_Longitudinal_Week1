@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Where is the most beautiful place you have been? Tell me about it.",
+                "name": "What is the most unnecessary thing you own?",
                 "value": 0
             },
             {
-                "name": "If you could call up anyone in the world and have a 1 hour conversation, who would you call and why?",
+                "name": "How should success be measured? By that measurement, who is the most successful person you know?",
                 "value": 1
             }
         ]

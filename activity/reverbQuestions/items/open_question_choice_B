@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Where is the most beautiful place you have been? Tell me about it.",
+                "name": "What is the most unnecessary thing you own?",
                 "value": 0
             },
             {
-                "name": "What is a tradition in your family that you used to think everyone did?",
+                "name": "If you could have intro music, what would it be? Why?",
                 "value": 1
             }
         ]

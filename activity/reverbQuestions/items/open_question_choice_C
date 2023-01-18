@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "If you could call up anyone in the world and have a 1 hour conversation, who would you call and why?",
+                "name": "How should success be measured? By that measurement, who is the most successful person you know?",
                 "value": 0
             },
             {
-                "name": "What is a tradition in your family that you used to think everyone did?",
+                "name": "If you could have intro music, what would it be? Why?",
                 "value": 1
             }
         ]

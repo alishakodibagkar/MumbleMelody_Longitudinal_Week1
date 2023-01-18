@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Who was your craziest / most interesting teacher? Tell me about them.",
+                "name": "Does fashion help society in any way?",
                 "value": 0
             },
             {
-                "name": "Talk about the last time you had a déjà-vu or a premonition?",
+                "name": "What would you do if you became a billionaire tomorrow?",
                 "value": 1
             }
         ]

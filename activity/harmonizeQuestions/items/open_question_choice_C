@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is a book you want to see made into a movie/tv series?",
+                "name": "If you opened a business, what kind of business would it be?",
                 "value": 0
             },
             {
-                "name": "Talk about the last time you had a déjà-vu or a premonition?",
+                "name": "What would you do if you became a billionaire tomorrow?",
                 "value": 1
             }
         ]
