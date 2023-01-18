@@ -1,0 +1,65 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Activity",
+    "@id": "appDownload_schema",
+    "prefLabel": "App download",
+    "description": "App download.",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "ui": {
+        "addProperties": [
+                {"isAbout": "items/page_1_item",
+                "variableName": "page_1_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_2_item",
+                "variableName": "page_2_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_3_item",
+                "variableName": "page_3_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_4_item",
+                "variableName": "page_4_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_5_item",
+                "variableName": "page_5_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_6_item",
+                "variableName": "page_6_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_7_item",
+                "variableName": "page_7_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_8_item",
+                "variableName": "page_8_item",
+                "isVis": true
+		},
+                 {"isAbout": "items/page_9_item",
+                "variableName": "page_9_item",
+                "isVis": true
+		}
+        ],
+        "order": [
+            "items/page_1_item",
+            "items/page_2_item",
+            "items/page_3_item",
+            "items/page_4_item",
+            "items/page_5_item",
+            "items/page_6_item",
+            "items/page_7_item",
+            "items/page_8_item",
+            "items/page_9_item"
+        ],
+        "shuffle": false,
+        "allow": [
+			"reproschema:AutoAdvance",
+			"reproschema:AllowExport"
+		]
+    }
+}

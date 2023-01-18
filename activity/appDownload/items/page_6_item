@@ -1,0 +1,25 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "page_6_item",
+    "prefLabel": "Page 6",
+    "description": "Page 6",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Now we will use the Mumble Melody app with your headphones plugged into your device.<br><br>When you enter the app for the first time, you will be asked to read and complete an onboarding form. Then, you will see the home page with 3 settings - the “Modes” page, the “About” page, and the “Get Involved” page.  When you click the Modes page, you should see the 4 different altered auditory feedback sections that we provide. Please don’t use them yet.<br><br>At this link is an image of this step: https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/image_5.png",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 0,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Continue",
+                "value": 0
+            }
+        ]
+    }
+}

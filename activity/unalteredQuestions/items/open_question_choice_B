@@ -1,0 +1,29 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "open_question_choice_B",
+    "prefLabel": "Choice to answer open question",
+    "description": "Choice to answer open question - radio item",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Which of the following two questions would you like to answer? (90 seconds)<b>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 1,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "What is something you always carry with you in your purse/pocket/backpack, and when has it been useful?",
+                "value": 0
+            },
+            {
+                "name": "What were you really into when you were a kid?",
+                "value": 1
+            }
+        ]
+    }
+}

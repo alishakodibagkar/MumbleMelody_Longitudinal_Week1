@@ -1,0 +1,25 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "page_1_item",
+    "prefLabel": "Page 1",
+    "description": "Page 1",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Next, we will guide you through the process of downloading, setting up, and using the Mumble Melody app. We will provide a set of images to help guide you along the way.<br><br>If you have any questions or get stuck at any stage, please reach out to us at mumblemelody@mit.edu  ",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 0,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "Continue",
+                "value": 0
+            }
+        ]
+    }
+}
