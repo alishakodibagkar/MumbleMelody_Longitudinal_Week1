@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "How different was your life one year ago?",
+                "name": "What are some of your personal “rules” that you never break? Why?",
                 "value": 0
             },
             {
-                "name": "Tell me about a time a stranger made a big impact on you",
+                "name": "Who in your life brings you the most joy? Tell me about them.",
                 "value": 1
             }
         ]

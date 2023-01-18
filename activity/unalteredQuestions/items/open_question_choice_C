@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is something you want to be good at but you aren’t?",
+                "name": "If you could time travel, when would you go and why?",
                 "value": 0
             },
             {
-                "name": "What were you really into when you were a kid?",
+                "name": " Describe a city scene 30 years from now.",
                 "value": 1
             }
         ]

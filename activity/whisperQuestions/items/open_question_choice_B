@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "How different was your life one year ago?",
+                "name": "What are some of your personal “rules” that you never break? Why?",
                 "value": 0
             },
             {
-                "name": "What is the strangest combination of foods you’ve eaten?",
+                "name": "If you could make a new law or pass a policy what would it be?",
                 "value": 1
             }
         ]

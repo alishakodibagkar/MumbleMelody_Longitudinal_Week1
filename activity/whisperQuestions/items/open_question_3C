@@ -6,7 +6,7 @@
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Answer the following question for 90 seconds:<br><b>What is the strangest combination of foods you’ve eaten?<b>",
+    "question": "Answer the following question for 90 seconds:<br><b>If you could make a new law or pass a policy what would it be?<b>",
     "ui": {
         "inputType": "audioCheck"
     },

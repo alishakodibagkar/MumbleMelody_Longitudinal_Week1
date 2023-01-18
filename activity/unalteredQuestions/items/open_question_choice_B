@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is something you always carry with you in your purse/pocket/backpack, and when has it been useful?",
+                "name": " What smell brings back great memories? Tell me about it.",
                 "value": 0
             },
             {
-                "name": "What were you really into when you were a kid?",
+                "name": " Describe a city scene 30 years from now.",
                 "value": 1
             }
         ]
