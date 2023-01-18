@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What kinds of food do you usually eat on your favorite holiday?",
+                "name": "What is the most useful thing you own?",
                 "value": 0
             },
             {
-                "name": "What is your favorite recipe/ cocktail you make and can you walk me through it?",
+                "name": "What is the strangest dream you’ve ever had?",
                 "value": 1
             }
         ]
