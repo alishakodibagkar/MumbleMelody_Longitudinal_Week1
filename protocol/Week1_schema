@@ -6,11 +6,11 @@
         }
     ],
     "@type": "reproschema:Protocol",
-    "@id": "Baselone_schema",
+    "@id": "Week1_schema",
     "prefLabel": {
-        "en": "Baseline Session"
+        "en": "Week1 Session"
     },
-    "description": "Baseline Testing Session for Mumble Melody Longitudinal Study",
+    "description": "Week 1 Testing Session for Mumble Melody Longitudinal Study",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "landingPage": [{
