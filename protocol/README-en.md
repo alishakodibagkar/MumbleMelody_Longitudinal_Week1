@@ -3,7 +3,7 @@
         <div style="
           height: 30vw;
           min-height: 15rem;
-          background-image: url(https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Baseline/master/protocol/week1_session.png);
+          background-image: url(https://raw.githubusercontent.com/alishakodibagkar/MumbleMelody_Longitudinal_Week1/master/protocol/week1_session.png);
           background-position: center;
           background-size: contain;
           background-repeat: no-repeat">
